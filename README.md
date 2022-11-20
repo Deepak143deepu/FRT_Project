@@ -4,7 +4,7 @@
 
 I Created This Project Using HTML, Javascript, Css And Azure Services.
 
-This Game Help's The User To Create Fun Betwwen User And Game, where you speak your guess into the microphone using the speech recognition API
+This Game Help's The User To Create Fun Between User And Game, where you speak your guess into the microphone using the speech recognition API
 
 # Project Specifications
 
@@ -28,7 +28,7 @@ User Need To Allow Micophone To Speech Recognition " Implement speech recognitio
 ![image](https://user-images.githubusercontent.com/111376079/202918605-9046c25d-8e3f-4cb3-b293-bcc6f0f0555b.png)
  
  #Azure Services Which Was I Used In This Project 
- > .ChatBot Services, <>  >Static Web Services
+ > .ChatBot Services, <>  > .Static Web Services
  ![image](https://user-images.githubusercontent.com/111376079/202918928-96d1e23b-35dc-4b57-82b4-29432bc32662.png)
 
 Thank You
